@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Santhosh",
+      "department": "ECE",
+      "place": "Dharmapuri"
+    },
+    {
+      "id": "2",
+      "name": "Suresh",
+      "department": "CSE",
+      "place": "Coimbatore"
+    },
+    {
+      "id": "3",
+      "name": "Rajesh",
+      "department": "IT",
+      "place": "Madurai"
+    },
+    {
+      "id": "4",
+      "name": "Sathish Kumar",
+      "department": "EEE",
+      "place": "Trichy"
+    },
+    {
+      "id": 0,
+      "name": "Sanjay",
+      "department": "Civil",
+      "place": "Namakkal"
+    },
+    {
+      "id": 0,
+      "name": "Mahesh",
+      "department": "AIDS",
+      "place": "Erode"
+    }
+  ]
+}
